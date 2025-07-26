@@ -1,0 +1,9 @@
+||google.com/search?q=*lana*rhoades*$important
+||youtube.com/results?search_query=*lana*rhoades*$important
+||bing.com/search?q=*lana*rhoades*$important
+||duckduckgo.com/*q=*lana*rhoades*$important
+||reddit.com/r/nsfw*$important
+||onlyfans.com*$important
+||pornhub.com*$important
+||xvideos.com*$important
+||xhamster.com*$important
