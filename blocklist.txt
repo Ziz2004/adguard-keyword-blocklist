@@ -488,3 +488,4 @@
 ||google.*/*q=*kaiden*kross*$important
 ||google.*/*q=*kaydankross*$important
 ||google.*/*q=*kayden*cross*$important
+||google.*/*q=*rohades*$important
